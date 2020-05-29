@@ -16,6 +16,7 @@ Just some regex validations
 - `()` Groups multiple tokens together and creates a capture group for extracting a substring. 
 - `.` will match any character, including new lines;
 - `+` Matcher 1 or more of the preceding token;
+- `|` Acts like a boolean OR, matches the expression before or after the |, 
 - `\` escape character, used to character have special meaning, and should be preceded by a \ (backslash) to represent a literal character;
 
 ## For reference
