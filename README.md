@@ -1,4 +1,4 @@
-<h2 align="center">ReGex Poc :boom:</h2> 
+<h2 align="center">RegEx Poc :boom:</h2> 
 <p align="center">
   <img src="./images/regex.png">
 </p>
